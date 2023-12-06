@@ -10,7 +10,7 @@ VLSM Subnetting Technique: Observe how this effective IP addressing method is im
 
 Static IP Addressing:  Acknowledge the importance of static IP addressing for certain network segments.
 
-#Implementing: 
+# Implementing: 
 
 To put this network layout into action, do the following:
 
